@@ -1,0 +1,17 @@
+com\onurtokat\dao\HiveAccess.class
+com\onurtokat\serde\WrapperSerde.class
+com\onurtokat\producer\GenericProducer.class
+com\onurtokat\util\ResultSetReader.class
+com\onurtokat\serde\JsonSerializer.class
+com\onurtokat\stream\CashLoanAmountWeeklyApp$DovizKuruSerde.class
+com\onurtokat\model\CashLoan.class
+com\onurtokat\producer\ProducerConfigCreator.class
+com\onurtokat\stream\CashLoanAmountWeeklyApp$CashLoanSerde.class
+com\onurtokat\stream\StreamsConfigCreator.class
+com\onurtokat\App.class
+com\onurtokat\serde\JsonDeserializer.class
+com\onurtokat\stream\CashLoanAmountWeeklyApp$1.class
+com\onurtokat\model\DovizKuru.class
+com\onurtokat\stream\CashLoanAmountWeeklyApp.class
+com\onurtokat\util\WeeklyDateCalculator.class
+com\onurtokat\producer\FileProducer.class
